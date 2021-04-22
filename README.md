@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @afro-juliano
+- 👀 I’m interested in PHP, Java Script and Python
+- 🌱 I’m currently learning PHP
+- 📫 How to reach me: afro.juliano@gmail.com - https://t.me/A4fro
+
+<!---
+afro-juliano/afro-juliano is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
