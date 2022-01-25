@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @afro-juliano
 - 👀 I’m interested in PHP, Java Script and Python
-- 🌱 I’m currently learning PHP
+- 🌱 I’m currently learning Python and Lua
 - 📫 How to reach me: afro.juliano@gmail.com - https://t.me/A4fro
 
 <!---
