@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @afro-juliano
-- 👀 I’m interested in PHP, Java Script and Python
+- 👀 I’m interested in Python, Java Script and DevOps
 - 🌱 I’m currently learning Python and Lua
 - 📫 How to reach me: afro.juliano@gmail.com - https://t.me/A4fro
 
