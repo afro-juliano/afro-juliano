@@ -1,8 +1,8 @@
 Hi I'm Juliano and this is my place!
 
 - 👋 Hi, I’m @afro-juliano
-- 👀 I’m interested in Python, Java Script and DevOps
-- 🌱 I’m currently learning Python and Lua
+- 👀 I’m in love with linux, and scripting languages... Let me solve your problems using it?
+- 🌱 I’m currently learning Python.
 - 📫 How to reach me: afro.juliano@gmail.com - https://t.me/A4fro
 - 😀 Pronouns: He/Him
 
