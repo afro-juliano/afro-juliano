@@ -1,4 +1,4 @@
-Hi I'm Juliano and this is my place!
+Well hello, this is my place to study and improve my DevOps skills, hope you enjoy it.
 
 - 👋 Hi, I’m @afro-juliano
 - 👀 I’m in love with linux, and scripting languages... Let me solve your problems using it?
