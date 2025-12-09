@@ -3,7 +3,7 @@ Well hello, this is my place to study and improve my DevOps skills, hope you enj
 - 👋 Hi, I’m @afro-juliano
 - 👀 I’m in love with linux, and scripting languages... Let me solve your problems using it?
 - 🌱 I’m currently learning DevOps, and all the tools I need to use in it.
-- 📫 How to reach me: afro.juliano@gmail.com - https://t.me/A4fro
+- 📫 How to reach me: afro.juliano@gmail.com
 - 😀 Pronouns: He/Him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afro-juliano&theme=dark&show_icons=true)
