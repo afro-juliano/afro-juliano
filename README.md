@@ -6,6 +6,6 @@ Well hello, this is my place to study and improve my DevOps skills, hope you enj
 - 📫 How to reach me: afro.juliano@gmail.com
 - 😀 Pronouns: He/Him
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afro-juliano)](https://github.com/afro-juliano/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=afro-juliano&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=afro-juliano&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
